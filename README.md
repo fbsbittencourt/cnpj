@@ -10,6 +10,8 @@ CNPJ API v1.1
   <a href='http://cn-pj.tech/api'><img src='https://img.shields.io/badge/Atualiza%C3%A7%C3%A3o-22/12/2021-blue'/></a>
 </p>
 
+<p align="center">⭐️ Deixe uma estrela ⭐️</p>
+
 <a align='center' href='http://cn-pj.tech/api'>
 
 `GET /api`
