@@ -144,7 +144,11 @@ nome = data['razao_social']
 print(cnpj, nome)
 ```
 
-
+> Para melhor visualização dos dados no navegador:
+> 
+> https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?hl=pt-BR
+>
 > Dados atualizados conforme atualização do banco de dados da Receita Federal.
->> Mais info: gabriel-tavares2009@hotmail.com
+> 
+> Mais info: gabriel-tavares2009@hotmail.com
 > 
